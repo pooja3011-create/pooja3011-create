@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">A passionate PHP Full Stack Developer</h3>
 
-- 🔭 I’m currently working on German language
+🔭 I’m currently working on German language
 
-- 🌱 I’m currently learning **React Js**
+🌱 I’m currently learning **React Js**
 
-- 👯 I’m crazy about **Learning**
+👯 I’m crazy about **Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pooja3011-create](https://github.com/pooja3011-create)
+👨‍💻 All of my projects are available at [https://github.com/pooja3011-create](https://github.com/pooja3011-create)
 
-- 💬 Ask me about **PHP, WordPress**
+💬 Ask me about **PHP, WordPress**
 
-- 📫 How to reach me **pooja.php30@gmail.com**
+📫 How to reach me **pooja.php30@gmail.com**
 
-- ⚡ Fun fact **Music + Coffe = Code 😂**
+⚡ Fun fact **Music + Coffe = Code 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
