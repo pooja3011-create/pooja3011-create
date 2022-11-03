@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on German language
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Angular Js**
 
 - 👯 I’m crazy about **Learning**
 
