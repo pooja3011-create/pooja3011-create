@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pooja-patel-89302aa9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pooja-patel-89302aa9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pooja-patel-89302aa9/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/59961159/202402309-b1cda733-a54e-4902-a977-53dee54983a3.png)" alt="https://www.linkedin.com/in/pooja-patel-89302aa9/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
